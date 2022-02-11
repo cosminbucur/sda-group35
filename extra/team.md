@@ -1,20 +1,26 @@
 [J]   Anca
 Anca I
 [J]   Andreea
-Cristina
+[J]   Cristina
 Daniela
 
-Alexandru
+[I] Alexandru
 Alexandru N
 [J]   Alin
 [J]   Andrei
 Dragoș
 [J]   Gabriel
-George
+[J] George
 Dumitru
-Eduard
-Iulian
+[J] Eduard
+[J] Iulian
 Radu
 [J]   Petru
-Ștefan
-I   Zsolt
+[J]   Ștefan
+[I]   Zsolt
+
+
+I - intern
+J - junior
+R - regular
+S - senior
