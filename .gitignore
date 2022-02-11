@@ -1,0 +1,17 @@
+# Intellij
+.idea/
+*.iml
+/*/*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# subfolders
+*/log/
+*/target/
+
