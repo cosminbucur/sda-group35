@@ -10,7 +10,7 @@ Alexandru N
 [J]   Andrei
 Dragoș
 [J]   Gabriel
-[J] George
+[J]   George
 Dumitru
 [J] Eduard
 [J] Iulian
