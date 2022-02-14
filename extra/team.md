@@ -20,7 +20,8 @@ Radu
 [I]   Zsolt
 
 
-I - intern
-J - junior
-R - regular
-S - senior
+I - intern      3000
+J - junior      4000
+R - regular     6000
+R2 - regular 2  10000
+S - senior      15000
