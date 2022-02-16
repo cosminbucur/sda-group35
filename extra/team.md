@@ -1,23 +1,23 @@
 [J]   Anca
 Anca I
-[J]   Andreea
-[J]   Cristina
-Daniela
+[J]     Andreea
+[R]     Cristina
+[I]     Daniela
 
-[I] Alexandru
+[J]     Alexandru
 Alexandru N
-[J]   Alin
-[J]   Andrei
+[J]     Alin
+[J]     Andrei
 Dragoș
-[J]   Gabriel
-[J]   George
+[R]     Gabriel
+[J]     George
 Dumitru
-[J] Eduard
-[J] Iulian
+[J]     Eduard
+[J]     Iulian
 Radu
-[J]   Petru
-[J]   Ștefan
-[I]   Zsolt
+[J]     Petru
+[J]     Ștefan
+[I]     Zsolt
 
 
 I - intern      3000
