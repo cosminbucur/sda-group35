@@ -12,7 +12,7 @@ Dragoș
 [R]     Gabriel
 [J]     George
 Dumitru
-[J]     Eduard
+[R]     Eduard
 [J]     Iulian
 Radu
 [J]     Petru
