@@ -1,0 +1,3 @@
+name,invoice_number,invoice_value,due_date
+Customer 1,SDA1,100,21.02.2022
+Customer 2,SDA2,200,21.01.2022
