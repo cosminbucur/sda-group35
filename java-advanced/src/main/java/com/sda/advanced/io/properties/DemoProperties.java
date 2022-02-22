@@ -10,5 +10,7 @@ public class DemoProperties {
         Properties appProperties = new Properties();
         appProperties.load(new FileInputStream("/home/cosbuc/dev/sda/sda-group35/java-advanced/src/main/resources/app.properties"));
         System.out.println(appProperties);
+
+        appProperties.getProperty("laptop.brand");
     }
 }

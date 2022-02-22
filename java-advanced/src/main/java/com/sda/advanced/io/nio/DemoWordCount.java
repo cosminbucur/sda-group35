@@ -1,4 +1,4 @@
-package com.sda.advanced.io;
+package com.sda.advanced.io.nio;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -22,7 +22,6 @@ public class DemoWordCount {
         }
     }
 
-    // TODO: fix this
     private static Map<String, Integer> countWords(Path path) throws IOException {
         // read file
         List<String> lines = Files.readAllLines(path);
@@ -38,14 +37,14 @@ public class DemoWordCount {
 
             // iterate words
             for (String word : words) {
-                int count = 1;
-
-                if (wordOccurrences.containsKey(word)) {
-                    wordOccurrences.put(word, count + 1);
-                } else {
-                    wordOccurrences.put(word, count);
+                if (!word.trim().isEmpty()) {
+                    if (wordOccurrences.containsKey(word)) {
+                        int count = wordOccurrences.get(word);
+                        wordOccurrences.put(word, count + 1);
+                    } else {
+                        wordOccurrences.put(word, 1);
+                    }
                 }
-
             }
         }
         return wordOccurrences;
