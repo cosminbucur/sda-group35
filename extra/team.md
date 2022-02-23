@@ -11,7 +11,7 @@ Alexandru N
 Dragoș
 [R]     Gabriel
 [J]     George
-Dumitru
+Dumitru 
 [R]     Eduard
 [J]     Iulian
 Radu
